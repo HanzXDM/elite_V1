@@ -174,8 +174,6 @@ ua_windows = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, se
 
 ua_realmi = 'Mozilla/5.0 (Linux; Android 11; RMX3191) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/101.0.4951.40 Safari/537.36;]'
 
-ua_sony = 'Mozilla/5.0 (Linux; U; Android 2.3.4; pt-pt; SonyEricssonLT18a Build/4.0.1.A.0.266) AppleWebKit/533.1 (KHTML, seperti Gecko) Versi/4.0 Mobile Safari/533.1;]
-
 ### Hapus Sesi Masuk
 
 bersih bersih():
@@ -192,7 +190,7 @@ bersih bersih():
 
 def jalan(z):
 
-    untuk e dalam z + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.04)
+    untuk  e  dalam  z  +  "\n" : sys . stdout . tulis ( e ); sys . stdout . menyiram (); waktu . tidur ( 0,04 )
 
 def mlaku(z):
 
